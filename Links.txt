@@ -1,0 +1,9 @@
+Link to this folder: https://www.dropbox.com/sh/pksg839xl2s67q7/AABHe0gaICCzhf--fMPLm5vBa?dl=0
+
+Machine Learning Glossary: https://developers.google.com/machine-learning/glossary
+
+Feedback form: https://docs.google.com/forms/d/e/1FAIpQLSfY0gKvVa9j0Y6jVb40MqbQU2BOmgg5igsbRl5ZwhgJiOZiEg/viewform
+
+Registration form for subsequent events: https://docs.google.com/forms/d/e/1FAIpQLSeBf9g1CmBqUCOOHD4yua1MgjYleo6RDdjiOHV1eDl_rInbFw/viewform
+
+Parts of spoken/written language consistent of tokens that come one after another
